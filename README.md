@@ -1,6 +1,2 @@
-# learnruby
-this is line 1.
-this is line 2.
-this is line 3.
-this is line 4.
-this is line 5.
+# GENERAL
+This is some practices of the book "Programming Ruby"
